@@ -201,7 +201,7 @@ h2.proj-head {
     height: 350px;
     border-radius: 10px;
     background-size: cover;
-    background-image: url("../image/my-image.jpeg");
+    background-image: url("../image/nf.jfif");
     margin: 1rem 1.5rem;
 }
 
@@ -416,5 +416,6 @@ h2.proj-head
    
    
 }
+
 
 
