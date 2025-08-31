@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="assets/css/style.css">
+   <link rel="shortcut icon" href="assets/image/images.jfif" type="image/x-icon">
+   
+    <title>Shangdi Lalthanz</title>
+</head>
+<body>
+      
+        <nav class="navbar">
+                <ul>
+                    <li>
+                        <a href="#home">Home</a>
+                    </li>
+                    <li>
+                        <a href="#aboutme">About</a>
+                    </li>
+                    <li>
+                        <a href="#project">Project</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Contact</a>
+                    </li>
+                </ul>
+            
+        </nav>
+        
+        <section id="home" class="home">
+
+            <div id="my-image" class="my-profile-photo">
+                <img src="assets/image/my-image2.png"  alt="Lalthanzual image">
+            </div>
+
+            <div class="my-profile">
+                <h1 class="profile-name">
+                  ~~ Lalthanzuala ~~
+                </h1>
+                <hr>
+                <p class="about-me-msg"> I am a Computer Science Student who aspires to be a Software Developer, Website or Web App & Mobile application developer...</p>
+                </div>   
+        </section>
+
+        <section id="aboutme" class="aboutme">
+            <div class="story">
+                <h3>~~ About-me ~~</h3>
+                <hr>
+                <p>
+                   I have completed HSLC(10 Standard) & HSSLC (XII Science) from Mizoram Board. Then I have done My BCA (Bachelor of Computer Application ) 
+                   From St. Vincent Pallotti Degree College, affiliated Bangalore North University.  I did several projects during academic period, Ecommerce website like 
+                   flipkart or amazon, Car rental portal, Movie Streaming web page like Netflix etc...  I am a full-stack developer, I can do both front-end and back-end development
+                   A part from this I have done extra courses Ethical Hacking, So i can work as Cyber Security And Data analyst (Web scraping, data cleaning and data visualazation). 
+                </p>
+                <p></p>
+            </div>
+
+                <div class="my-profile-photo">
+                    <img src="assets/image/my-image-removebg.png"  alt="Lalthanzual image">
+                </div>
+        </section>
+
+    <hr>
+
+    <section id="project">
+        <h2 class="proj-head">~~ My Project & Work done ~~</h2>
+        <div class="project">
+
+                <div class="proj">
+                    <div class="pro-text">
+                        <h3>Earth Facts</h3>
+                        <p>Here is about the earth facts short story Here is about the earth facts short story Here is about the earth facts short story</p>
+                    </div>
+                        <a href="page.php"><button class="pro-view-btn">View</button></a>
+                </div>
+
+                <div class="proj">
+                    <div class="pro-text">
+                        <h3>Earth Facts</h3>
+                        <p>Here is about the earth facts short story Here is about the earth facts short story Here is about the earth facts short story</p>
+                    </div>
+                        <a href="#"><button class="pro-view-btn">View </button></a>
+                </div>
+
+                <div class="proj">
+                    <div class="pro-text">
+                        <h3>Earth Facts</h3>
+                        <p>Here is about the earth facts short story Here is about the earth facts short story Here is about the earth facts short story</p>
+                    </div>
+                        <a href="#"><button class="pro-view-btn">View</button></a>
+                </div>
+
+                
+        </div> 
+   </section>
+
+   <div id="contact" class="contact">
+        <h1> Contact</h1>
+        <p>  I would love to hear from you. <br> Just connect with me </p>
+
+        <!--
+        <form class="contact-form" method="POST">
+
+            <div class="contact-details">
+                <label for="name"> Name</label>
+                <input type="text" id="yourname" name="name" placeholder="Enter your name">
+
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" name="Subj" placeholder="Reason for your message">
+
+                <label for="email"> Email</label>
+                <input type="email" id="email" name="email" placeholder="youremail@gmail.com">
+            </div>
+
+            <div class="message">
+
+                <label for="message">Message</label>
+                <textarea  id="msg" name="msg" rows="13"></textarea>
+                <button type="submit" name ="submitbtn">Send</button>
+            </div>
+            
+        </form>
+
+-->
+    <div class="left">
+        <p>
+
+       <strong> Whatsapp : </strong>+91 8217 756 517<br>
+       <strong> Email : </strong>shangdilalthanzuala@gmail.com
+
+       </p>
+
+       <p class="cont-img">
+
+        <a href="#"> <img src="assets/image/whatsp.png" alt="Whatsapp"></a>
+        <a href="https://www.instagram.com/r_shangdi?igsh=YzJjYXNneWdtcjNw"><img src="assets/image/ig.png" alt="Instagram"></a>
+        <a href="#"> <img src="assets/image/fb.png" alt="facebook"></a>
+       </p>
+    </div>
+
+    <div class="right">
+         
+    </div>
+
+   </div>
+
+   <div class="footer">
+    <div class="copyright">
+        <p><span> Scienty Lalthanzuala &copy;2025</span></p>
+    </div>
+   </div>
+
+   <script type="text/javascript">
+ /*
+
+
+        window.addEventListener("contextmenu", (e) =>{
+            e.preventDefault();
+        })
+*/
+   </script>
+</body>
+</html>
