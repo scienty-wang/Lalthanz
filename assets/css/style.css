@@ -205,6 +205,26 @@ h2.proj-head {
     margin: 1rem 1.5rem;
 }
 
+.proj-1 {
+
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url("../image/nf.jfif");
+    margin: 1rem 1.5rem;
+}
+
+.proj-2 {
+
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url("../image/nf.jfif");
+    margin: 1rem 1.5rem;
+}
+
 .pro-text{
     position: relative;
     background-color: #fff;
@@ -416,6 +436,7 @@ h2.proj-head
    
    
 }
+
 
 
 
